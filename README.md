@@ -7,3 +7,6 @@ This project uses constant-contact .net wrapper to build a simple application to
 ![alt text](https://github.com/cvchakradharreddy/constant-contact/blob/master/constant-contact-edit.PNG)
 ![alt text](https://github.com/cvchakradharreddy/constant-contact/blob/master/constant-contact-delete.PNG)
 ![alt text](https://github.com/cvchakradharreddy/constant-contact/blob/master/constant-contact-details.PNG)
+
+How to:
+![Constant Contact demo application setup guide](https://github.com/cvchakradharreddy/constant-contact/blob/master/vidly/docs/Constant_Contact_Setup.pdf)
